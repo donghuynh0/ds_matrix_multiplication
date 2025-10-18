@@ -1,0 +1,66 @@
+[
+  {
+    "matrix_size": 4,
+    "parallel_strassen_time_seconds": 0.000008
+  }
+,
+  {
+    "matrix_size": 8,
+    "parallel_strassen_time_seconds": 0.000008
+  }
+,
+  {
+    "matrix_size": 16,
+    "parallel_strassen_time_seconds": 0.000038
+  }
+,
+  {
+    "matrix_size": 32,
+    "parallel_strassen_time_seconds": 0.000298
+  }
+,
+  {
+    "matrix_size": 64,
+    "parallel_strassen_time_seconds": 0.002265
+  }
+,
+  {
+    "matrix_size": 128,
+    "parallel_strassen_time_seconds": 0.008246
+  }
+,
+  {
+    "matrix_size": 256,
+    "parallel_strassen_time_seconds": 0.026389
+  }
+,
+  {
+    "matrix_size": 512,
+    "parallel_strassen_time_seconds": 0.005825
+  }
+,
+  {
+    "matrix_size": 1024,
+    "parallel_strassen_time_seconds": 0.016378
+  }
+,
+  {
+    "matrix_size": 2048,
+    "parallel_strassen_time_seconds": 0.049099
+  }
+,
+  {
+    "matrix_size": 4096,
+    "parallel_strassen_time_seconds": 0.203716
+  }
+,
+  {
+    "matrix_size": 8192,
+    "parallel_strassen_time_seconds": 0.914643
+  }
+,
+  {
+    "matrix_size": 16384,
+    "parallel_strassen_time_seconds": 4.412798
+  }
+]
